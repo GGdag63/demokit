@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: transparent; /* Arka planı şeffaf yap */
+  --foreground: #ededed; /* Yazı rengi */
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: transparent; /* Koyu modda da şeffaf kalacak */
+    --foreground: #ffffff; /* Koyu mod için yazı rengi */
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
