@@ -21,7 +21,7 @@
     "react-dom": "^19.0.0",
     "thirdweb": "^5.79.0",
     "viem": "^2.21.54",
-    "wagmi": "^2.13.4",
+    "wagmi": "^2.13.5",
     "web3": "^4.16.0"
   },
   "devDependencies": {
