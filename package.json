@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@reown/appkit": "^1.5.3",
-    "@reown/appkit-adapter-wagmi": "^1.5.3",
+    "@reown/appkit-adapter-wagmi": "^1.6.6",
     "@tanstack/react-query": "^5.62.3",
     "@thirdweb-dev/react": "^4.9.4",
     "@thirdweb-dev/sdk": "^4.0.99",
