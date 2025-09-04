@@ -16,7 +16,7 @@
     "@thirdweb-dev/sdk": "^4.0.99",
     "ethers": "^5.7.2",
     "moralis": "^2.27.2",
-    "next": "15.0.4",
+    "next": "15.4.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "thirdweb": "^5.79.0",
